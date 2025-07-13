@@ -1,0 +1,51 @@
+## 📌 Prompt for LLM
+You are a helpful assistant. Summarize the following description of the **Ref** project for a curious designer.  
+Focus on what Ref is, how it works, and its long-term vision.  
+
+---
+
+# Ref — scaling human design mastery with AI-extras
+
+### What is Ref?
+**Ref** is the first platform that turns the hard-won knowledge of leading designers into on-demand **AI-extras**—autonomous, expert-level agents that behave like virtual co-workers. Any creative can hire, use, or embed these agents directly inside their workflow, getting contextual, professional feedback 24 / 7.
+
+### How it works
+1. **Capture expert knowledge**  
+   Designers import raw assets—notes, talks, slide decks, Figma files—into a private “expert wiki” that preserves nuance and voice.  
+
+2. **Train an AI-extra**  
+   The wiki is distilled into a custom language-model checkpoint, creating an agent that mirrors the expert’s taste, methodology, and decision logic.  
+
+3. **Deploy everywhere**  
+   AI-extras can be used as a chat sidebar in design tools, integrated via API, or listed on Ref’s open marketplace so others can use them on demand.  
+
+4. **Continuous refinement**  
+   Every interaction (opt-in) becomes new training data, so the agent improves while the expert retains full oversight and can roll back or tweak outputs at any time.
+
+### Vision
+Ref imagines a future where elite design judgment is no longer scarce. By packaging craft knowledge as AI co-workers, the platform aims to:
+
+- **Democratize excellence** — make top-tier critiques, concepts, and best practices instantly accessible to every project, regardless of budget or location.  
+- **Multiply impact** — let experts mentor thousands simultaneously without burning out, while preserving their unique voice and standards.  
+- **Build a data moat for creative work** — aggregate the world’s rare, tacit design know-how into a continually evolving corpus that future agents can learn from.
+
+### Key benefits for designers and teams
+- **Always-on sparring partner** for color accessibility checks, UX critiques, brand consistency, and concept ideation.  
+- **Context-aware answers** grounded in real project artifacts rather than generic web data.  
+- **Seamless collaboration**—hand-off annotated drafts, receive guided revisions, and iterate faster.  
+- **Marketplace discovery**—find niche specialists (calligraphy, motion, service design, etc.) and plug them into your tool stack within minutes.  
+
+### Typical use cases
+| Scenario | How an AI-extra helps |
+|----------|-----------------------|
+| Early-stage brand exploration | Generates mood boards aligned to a defined strategy, then critiques them against market positioning. |
+| Accessibility audit | Scans a Figma file for contrast issues and proposes WCAG-compliant palettes with rationale. |
+| Product-design feedback loop | Joins daily Slack threads, pointing out interaction snags, copy-tone mismatches, or flow inconsistencies. |
+| Community education | Hosts live “office hours,” answering subscriber questions with the same depth as the expert designer. |
+
+### Why it matters now
+Generative AI is evolving from isolated text assistants to **domain-specific agents** that understand context and take action. Ref bridges that gap for design, blending human taste with machine availability to raise the baseline quality of digital experiences worldwide.
+
+---
+
+> Copy this Markdown into your favorite LLM to explore, repurpose, or extend the Ref concept in your own words.
